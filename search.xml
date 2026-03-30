@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>2026330</title>
+      <link href="/2026/03/30/2026330/"/>
+      <url>/2026/03/30/2026330/</url>
+      
+        <content type="html"><![CDATA[<p>之前写dakumi的时候总是考虑如何提高draw性能 不然跑不满60帧 刚刚加了一个性能检测发现update比draw性能耗费得多得多 对love2d了解还是太少 或者说是对代码的理解</p><hr><p>有些时候心平气和并不代表我对这些事情无所谓 而是我意识到已经不可改变</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Fates</title>
       <link href="/2026/03/06/Fates/"/>
       <url>/2026/03/06/Fates/</url>
