@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>202677</title>
+      <link href="/2026/07/07/202677/"/>
+      <url>/2026/07/07/202677/</url>
+      
+        <content type="html"><![CDATA[<p>今日流程 </p><p>使用git拉取子依赖1h</p><p>​使用Android studio构建了半天xime因为cmake缺少环境报错后（装了环境cmake死活找不到），放弃手动构建 使用action</p><p>​近黄昏，每次修改配置文件push 然后action15min 下载20min后<br>​<br>​最后发现在手机上拆开apk1分钟就能改配置文件打包完毕</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>2026624</title>
       <link href="/2026/06/24/2026624/"/>
       <url>/2026/06/24/2026624/</url>
